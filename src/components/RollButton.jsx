@@ -6,11 +6,11 @@ export default function RollButton({ onClick, gameWon }) {
       px-14
       py-4
       rounded-lg
-      bg-indigo-600
-      hover:bg-indigo-700
+      bg-indigo-500
+      hover:bg-indigo-600
       active:scale-95
       text-white
-      text-xl
+      text-lg
       font-semibold
       shadow-xl
       transition-all
