@@ -1,16 +1,74 @@
-# React + Vite
+# 🎲 Tenzies
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple implementation of the classic **Tenzies** game built with **React**, **JavaScript**, and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 Live Demo: https://your-demo-link.vercel.app
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Roll and hold dice
+- Win when all dice have the same value
+- Confetti animation on victory
+- Responsive design
+- Clean and modern UI
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- JavaScript
+- Tailwind CSS
+- Vite
+- Nano ID
+- React Confetti
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/tenzies.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+## Project Structure
+
+```
+src/
+├── components/
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+## Screenshot
+
+> Add a screenshot of the application here.
+
+## Author
+
+**Navdeep Swamy**
+
+GitHub: https://github.com/yourusername
+
+## License
+
+This project is licensed under the MIT License.
