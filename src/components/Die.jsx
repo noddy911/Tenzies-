@@ -3,7 +3,7 @@ export default function Die({ value, isHeld, hold }) {
     <button
       onClick={hold}
       className={`
-      h-16
+      h-14
       w-16
       sm:h-20
       sm:w-20
