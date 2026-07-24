@@ -20,7 +20,7 @@ export default function Header(props) {
       via-yellow-400
       to-pink-500
       bg-clip-text
-      drop-shadow-lg
+      drop-shadow-lg'
       "
           >
             🎉 YOU WON! 🎉
